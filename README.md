@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi there 👋, my name is Nakshatra
+
+# #💫 About Me:
 I am a student at Charusat University, currently pursuing a B.Tech in Computer Engineering. My primary area of interest is Artificial Intelligence, and I am passionate about exploring the latest advancements and applications in this exciting field.
 
 
